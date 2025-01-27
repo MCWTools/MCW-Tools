@@ -11,7 +11,7 @@
 
 ## 🌍 Connect with Me
 - 🌐 [GitHub Profile](https://github.com/MCWTools)
-- 📧 [Email me](mcwchecker@gmail.com)
+- 📧 [Email me](mailto:mcwchecker@gmail.com)
 
 ## 💻 Technologies I’m using
 - **Programming Languages**: Python, JavaScript
